@@ -1,4 +1,4 @@
-ID;Nom;Prenom
+ID;Nom;Prenom;Parent1ID;Parent2ID
 1;Montanier;Thibaut
 2;Jean;Paul
 3;Pierre;Restaz
